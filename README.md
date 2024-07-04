@@ -39,7 +39,7 @@ By contributing to this project, you agree to abide by its terms and conditions.
 
 ## License
 
-This project is licensed under the GNU GENERAL PUBLIC LICENSE Version 3. See the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the GNU GENERAL PUBLIC LICENSE Version 3. See the [LICENSE](LICENSE) file for details.
 
 ## Citation
 
