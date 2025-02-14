@@ -1,14 +1,14 @@
 # The Virtual Water Gallery: Visitor Survey Evaluation
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/lou-a/VWG-ArtSci_Eval/pulls)
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40ArnalLouise)](https://twitter.com/ArnalLouise)
+[![Bluesky](https://img.shields.io/badge/Bluesky-Follow%20%40ArnalLouise-1DA1F2?style=social&logo=bluesky)](https://bsky.app/profile/ArnalLouise.bsky.social)
 
 
 
 
 ## Description
 
-This repository contains the Python code used to analyze visitor responses to a survey distributed as part of the [Virtual Water Gallery](https://www.virtualwatergallery.ca) art-science (ArtSci) project. The survey aimed to assess changes in knowledge, attitudes, and behaviours related to water and climate change among gallery visitors. The code was used to generate graphics for a manuscript currently under review at PLOS Climate (Arnal and Schuster-Wallace, 2024). The analysis focuses on responses from gallery visitors. For the project participants' surveys, a single plot is generated using data from a different Excel document (not shared). Due to ethical considerations, the actual data used for the manuscript are not shared. Instead, we provide a toy dataset to allow you to run the code but not reproduce the exact manuscript results. For more information about the results, see our manuscript linked at the bottom of this file.
+This repository contains the Python code used to analyze visitor responses to a survey distributed as part of the [Virtual Water Gallery](https://www.virtualwatergallery.ca) art-science (ArtSci) project. The survey aimed to assess changes in knowledge, attitudes, and behaviours related to water and climate change among gallery visitors. The code was used to generate graphics for a manuscript currently under review at PLOS Climate (Arnal and Schuster-Wallace, 2024). The analysis focuses on responses from gallery visitors. For the project participants' surveys, a single plot is generated using data from a different Excel document (not shared). To keep this repository concise, we provide a toy dataset to allow you to run the code but not to reproduce the exact manuscript results. The full dataset is available on Zenodo (Arnal and Schuster-Wallace, 2025).
 
 ## Repository Structure
 
@@ -46,6 +46,8 @@ This project is licensed under the GNU GENERAL PUBLIC LICENSE Version 3. See the
 If you use this code, please consider citing it along with the associated manuscript.
 
 Arnal, L., & Schuster-Wallace, C. (2024). The Virtual Water Gallery: Art as a catalyst for transforming knowledge and behaviour in water and climate. https://doi.org/10.31223/X5WD78. [preprint currently under review at PLOS Climate]
+
+Arnal, L., & Schuster Wallace, C. (2025). The Virtual Water Gallery: Data [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14713040
 
 ## Contact
 
